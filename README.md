@@ -82,9 +82,36 @@ For dataset information, visit the **Dataset** folder.
 
 ---
 
+
 ## 📷 Dashboard Screenshots
 
-Dashboard screenshots are available in the **Images** folder.
+### 🏠 Landing Page
+
+![Landing Page](Images/1.%20Landing%20Page.png)
+
+---
+
+### 📊 Overview
+
+![Overview](Images/2.%20Overview.png)
+
+---
+
+### ⭐ Overall Rating
+
+![Overall Rating](Images/3.1%20Overall%20Rating.png)
+
+---
+
+### ⭐ Detailed Rating
+
+![Detailed Rating](Images/3.2%20Detailed%20Rating.png)
+
+---
+
+### 💬 Reviews
+
+![Reviews](Images/4.%20Reviews.png)
 
 ---
 
