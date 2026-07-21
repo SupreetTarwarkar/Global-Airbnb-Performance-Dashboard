@@ -5,6 +5,6 @@ A complete walkthrough of the **Global Airbnb Performance Dashboard** is availab
 ## Watch Demo Video
 
 **Google Drive:**  
-https://drive.google.com/file/d/1la_4SZvQlg0-uKMqKRmy4-1jB0vRsdEh/view?usp=sharing
+https://drive.google.com/file/d/1My_FnHASo4RvcUYgZ7t4WLheKQ2ctSh3/view?usp=sharing
 
 > **Note:** The demonstration video is not included in this repository due to its large file size. It has been hosted on Google Drive for easy access.
