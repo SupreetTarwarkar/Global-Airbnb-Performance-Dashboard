@@ -144,7 +144,7 @@ Global-Airbnb-Performance-Dashboard
 ## 🙏 Acknowledgements
 
 - **Maven Analytics** for providing the Airbnb Listings & Reviews dataset.
-- **Mansi Goel** for the dashboard walkthrough and design inspiration used for learning Power BI dashboard development.
+- **Mansi Goel** Ma'am for the dashboard walkthrough and design inspiration used for learning Power BI dashboard development.
 - **Original Walkthrough Video**: https://youtu.be/LzlaCBNT9vY?si=veXs4Hs9W3KcPa50
 ---
 
