@@ -1,1 +1,20 @@
+# Dataset
 
+This project uses the **Airbnb Listings & Reviews** dataset from the **Maven Analytics Data Playground**.
+
+### Dataset Information
+
+- Listings: 279K+ Airbnb listings
+- Reviews: 5.3M+ guest reviews
+- Cities: 10 major cities
+- Data Structure: Multiple tables (Listings & Reviews)
+
+### Dataset Source
+
+Maven Analytics Data Playground:
+https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+
+Original Open Data Source:
+https://insideairbnb.com/
+
+> Note: The original dataset files are not included in this repository due to their large file size.
