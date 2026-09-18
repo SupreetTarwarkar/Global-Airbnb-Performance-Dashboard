@@ -1,6 +1,6 @@
-# 🌍 Global Airbnb Performance Dashboard
+#  Global Airbnb Performance Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Global Airbnb Performance Dashboard** is an interactive Power BI dashboard designed to analyze Airbnb's global marketplace across **10 major cities**.
 
@@ -8,7 +8,7 @@ The dashboard provides insights into listings, hosts, pricing, property types, r
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to transform raw Airbnb listing and review data into meaningful business insights that help answer questions such as:
 
@@ -20,7 +20,7 @@ The objective of this project is to transform raw Airbnb listing and review data
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 - Microsoft Power BI
 - Power Query
@@ -30,7 +30,7 @@ The objective of this project is to transform raw Airbnb listing and review data
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** Maven Analytics Data Playground
 
@@ -44,13 +44,13 @@ For dataset information, visit the **Dataset** folder.
 
 ---
 
-## 📄 Dashboard Pages
+##  Dashboard Pages
 
-### 🏠 Landing Page
+###  Landing Page
 - Dashboard introduction
 - Navigation panel
 
-### 📈 Overview
+###  Overview
 - Total Listings
 - Total Hosts
 - Average Price
@@ -58,13 +58,13 @@ For dataset information, visit the **Dataset** folder.
 - Room Type Analysis
 - City-wise Performance
 
-### ⭐ Ratings
+###  Ratings
 - Overall Ratings
 - Rating Distribution
 - City Comparison
 - Property Performance
 
-### 💬 Reviews
+###  Reviews
 - Review Trends
 - Monthly Reviews
 - Customer Engagement
@@ -72,7 +72,7 @@ For dataset information, visit the **Dataset** folder.
 
 ---
 
-## 📈 Key Business Insights
+##  Key Business Insights
 
 - Compare Airbnb performance across multiple cities.
 - Analyze pricing patterns by room type and property type.
@@ -83,51 +83,51 @@ For dataset information, visit the **Dataset** folder.
 ---
 
 
-## 📷 Dashboard Screenshots
+##  Dashboard Screenshots
 
-### 🏠 Landing Page
+###  Landing Page
 
 ![Landing Page](Images/1.%20Landing%20Page.png)
 
 ---
 
-### 📊 Overview
+###  Overview
 
 ![Overview](Images/2.%20Overview.png)
 
 ---
 
-### ⭐ Overall Rating
+###  Overall Rating
 
 ![Overall Rating](Images/3.1%20Overall%20Rating.png)
 
 ---
 
-### ⭐ Detailed Rating
+###  Detailed Rating
 
 ![Detailed Rating](Images/3.2%20Detailed%20Rating.png)
 
 ---
 
-### 💬 Reviews
+###  Reviews
 
 ![Reviews](Images/4.%20Reviews.png)
 
 ---
 
-## 📥 Power BI Report
+##  Power BI Report
 
 The Power BI (.pbix) file is available in the **PBIX** folder through a Google Drive download link because the file exceeds GitHub's upload size limit.
 
 ---
 
-## 🎥 Dashboard Demo
+##  Dashboard Demo
 
 A complete dashboard walkthrough video is available in the **Dashboard Demo** folder.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 Global-Airbnb-Performance-Dashboard
@@ -141,14 +141,14 @@ Global-Airbnb-Performance-Dashboard
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - **Maven Analytics** for providing the Airbnb Listings & Reviews dataset.
 - **Mansi Goel** Ma'am for the dashboard walkthrough and design inspiration used for learning Power BI dashboard development.
 - **Original Walkthrough Video**: https://youtu.be/LzlaCBNT9vY?si=veXs4Hs9W3KcPa50
 ---
 
-## 👤 Author
+##  Author
 
 **Supreet Tarwarkar**
 
