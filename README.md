@@ -1,14 +1,14 @@
-<div align="center"><h1>🌍 Global Airbnb Performance Dashboard</h1></div>
+# 🌍 Global Airbnb Performance Dashboard
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>📌 PROJECT OVERVIEW</b></div>
+## 📌 Project Overview
 
 The **Global Airbnb Performance Dashboard** is an interactive Power BI dashboard designed to analyze Airbnb's global marketplace across **10 major cities**.
 
 The dashboard provides insights into listings, hosts, pricing, property types, room types, ratings, reviews, and customer behavior, helping users understand market trends and business performance through interactive visualizations.
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>🎯 PROJECT OBJECTIVE</b></div>
+---
+
+## 🎯 Project Objective
 
 The objective of this project is to transform raw Airbnb listing and review data into meaningful business insights that help answer questions such as:
 
@@ -18,8 +18,9 @@ The objective of this project is to transform raw Airbnb listing and review data
 - How does pricing differ by location and property type?
 - What review trends can be observed over time?
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>🛠️ TECH STACK</b></div>
+---
+
+## 🛠️ Tech Stack
 
 - Microsoft Power BI
 - Power Query
@@ -27,8 +28,9 @@ The objective of this project is to transform raw Airbnb listing and review data
 - Data Modeling
 - Data Visualization
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>📊 DATASET</b></div>
+---
+
+## 📊 Dataset
 
 **Source:** Maven Analytics Data Playground
 
@@ -40,14 +42,15 @@ The dashboard uses the **Airbnb Listings & Reviews** dataset covering:
 
 For dataset information, visit the **Dataset** folder.
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>📄 DASHBOARD PAGES</b></div>
+---
 
-<div align="center"><b>🏠 Landing Page</b></div>
+## 📄 Dashboard Pages
+
+### 🏠 Landing Page
 - Dashboard introduction
 - Navigation panel
 
-<div align="center"><b>📈 Overview</b></div>
+### 📈 Overview
 - Total Listings
 - Total Hosts
 - Average Price
@@ -55,20 +58,21 @@ For dataset information, visit the **Dataset** folder.
 - Room Type Analysis
 - City-wise Performance
 
-<div align="center"><b>⭐ Ratings</b></div>
+### ⭐ Ratings
 - Overall Ratings
 - Rating Distribution
 - City Comparison
 - Property Performance
 
-<div align="center"><b>💬 Reviews</b></div>
+### 💬 Reviews
 - Review Trends
 - Monthly Reviews
 - Customer Engagement
 - Review Analysis
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>📈 KEY BUSINESS INSIGHTS</b></div>
+---
+
+## 📈 Key Business Insights
 
 - Compare Airbnb performance across multiple cities.
 - Analyze pricing patterns by room type and property type.
@@ -76,41 +80,54 @@ For dataset information, visit the **Dataset** folder.
 - Understand customer review trends over time.
 - Discover host and listing distribution across locations.
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>📷 DASHBOARD SCREENSHOTS</b></div>
+---
 
-<div align="center"><b>🏠 Landing Page</b></div>
+
+## 📷 Dashboard Screenshots
+
+### 🏠 Landing Page
 
 ![Landing Page](Images/1.%20Landing%20Page.png)
 
-<div align="center"><b>📊 Overview</b></div>
+---
+
+### 📊 Overview
 
 ![Overview](Images/2.%20Overview.png)
 
-<div align="center"><b>⭐ Overall Rating</b></div>
+---
+
+### ⭐ Overall Rating
 
 ![Overall Rating](Images/3.1%20Overall%20Rating.png)
 
-<div align="center"><b>⭐ Detailed Rating</b></div>
+---
+
+### ⭐ Detailed Rating
 
 ![Detailed Rating](Images/3.2%20Detailed%20Rating.png)
 
-<div align="center"><b>💬 Reviews</b></div>
+---
+
+### 💬 Reviews
 
 ![Reviews](Images/4.%20Reviews.png)
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>📥 POWER BI REPORT</b></div>
+---
+
+## 📥 Power BI Report
 
 The Power BI (.pbix) file is available in the **PBIX** folder through a Google Drive download link because the file exceeds GitHub's upload size limit.
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>🎥 DASHBOARD DEMO</b></div>
+---
+
+## 🎥 Dashboard Demo
 
 A complete dashboard walkthrough video is available in the **Dashboard Demo** folder.
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>📁 REPOSITORY STRUCTURE</b></div>
+---
+
+## 📁 Repository Structure
 
 ```text
 Global-Airbnb-Performance-Dashboard
@@ -122,15 +139,16 @@ Global-Airbnb-Performance-Dashboard
 └── README.md
 ```
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>🙏 ACKNOWLEDGEMENTS</b></div>
+---
+
+## 🙏 Acknowledgements
 
 - **Maven Analytics** for providing the Airbnb Listings & Reviews dataset.
 - **Mansi Goel** Ma'am for the dashboard walkthrough and design inspiration used for learning Power BI dashboard development.
 - **Original Walkthrough Video**: https://youtu.be/LzlaCBNT9vY?si=veXs4Hs9W3KcPa50
+---
 
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
-<div align="center"><b>👤 AUTHOR</b></div>
+## 👤 Author
 
 **Supreet Tarwarkar**
 
