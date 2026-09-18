@@ -2,7 +2,6 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>📌 PROJECT OVERVIEW</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 The **Global Airbnb Performance Dashboard** is an interactive Power BI dashboard designed to analyze Airbnb's global marketplace across **10 major cities**.
 
@@ -10,7 +9,6 @@ The dashboard provides insights into listings, hosts, pricing, property types, r
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>🎯 PROJECT OBJECTIVE</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 The objective of this project is to transform raw Airbnb listing and review data into meaningful business insights that help answer questions such as:
 
@@ -22,7 +20,6 @@ The objective of this project is to transform raw Airbnb listing and review data
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>🛠️ TECH STACK</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Microsoft Power BI
 - Power Query
@@ -32,7 +29,6 @@ The objective of this project is to transform raw Airbnb listing and review data
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>📊 DATASET</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 **Source:** Maven Analytics Data Playground
 
@@ -46,15 +42,12 @@ For dataset information, visit the **Dataset** folder.
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>📄 DASHBOARD PAGES</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 <div align="center"><b>🏠 Landing Page</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 - Dashboard introduction
 - Navigation panel
 
 <div align="center"><b>📈 Overview</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 - Total Listings
 - Total Hosts
 - Average Price
@@ -63,14 +56,12 @@ For dataset information, visit the **Dataset** folder.
 - City-wise Performance
 
 <div align="center"><b>⭐ Ratings</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 - Overall Ratings
 - Rating Distribution
 - City Comparison
 - Property Performance
 
 <div align="center"><b>💬 Reviews</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 - Review Trends
 - Monthly Reviews
 - Customer Engagement
@@ -78,7 +69,6 @@ For dataset information, visit the **Dataset** folder.
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>📈 KEY BUSINESS INSIGHTS</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - Compare Airbnb performance across multiple cities.
 - Analyze pricing patterns by room type and property type.
@@ -88,48 +78,39 @@ For dataset information, visit the **Dataset** folder.
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>📷 DASHBOARD SCREENSHOTS</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 <div align="center"><b>🏠 Landing Page</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Landing Page](Images/1.%20Landing%20Page.png)
 
 <div align="center"><b>📊 Overview</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Overview](Images/2.%20Overview.png)
 
 <div align="center"><b>⭐ Overall Rating</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Overall Rating](Images/3.1%20Overall%20Rating.png)
 
 <div align="center"><b>⭐ Detailed Rating</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Detailed Rating](Images/3.2%20Detailed%20Rating.png)
 
 <div align="center"><b>💬 Reviews</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ![Reviews](Images/4.%20Reviews.png)
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>📥 POWER BI REPORT</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 The Power BI (.pbix) file is available in the **PBIX** folder through a Google Drive download link because the file exceeds GitHub's upload size limit.
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>🎥 DASHBOARD DEMO</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 A complete dashboard walkthrough video is available in the **Dashboard Demo** folder.
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>📁 REPOSITORY STRUCTURE</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 ```text
 Global-Airbnb-Performance-Dashboard
@@ -143,7 +124,6 @@ Global-Airbnb-Performance-Dashboard
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>🙏 ACKNOWLEDGEMENTS</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 - **Maven Analytics** for providing the Airbnb Listings & Reviews dataset.
 - **Mansi Goel** Ma'am for the dashboard walkthrough and design inspiration used for learning Power BI dashboard development.
@@ -151,7 +131,6 @@ Global-Airbnb-Performance-Dashboard
 
 <div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div>
 <div align="center"><b>👤 AUTHOR</b></div>
-<div align="center"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/SupreetTarwarkar/main/Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div>
 
 **Supreet Tarwarkar**
 
